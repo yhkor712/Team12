@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="btn">單機遊戲</string>
+    <string name="btn2">雙人遊戲</string>
+    <string name="btn3">連線設置</string>
+    <string name="btn4">歷史紀錄</string>
+    <string name="btn301">創建房間</string>
+    <string name="btn302">加入房間</string>
+</resources>
